@@ -14,4 +14,4 @@ python script.py
 ```
 
 ## Screenshot
-<img src='ss.jpg' height=400px>
+<img src='ss.JPG' height=400px>
